@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Blockchain-development**
 
-- 🌱 I’m currently learning **blockchain-technology**
+- 🌱 I’m currently learning **Blockchain-technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhisheksabhi33](https://github.com/Abhisheksabhi33)
 
