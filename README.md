@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksabhi33" alt="abhisheksabhi33" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rawat_abhi33" target="blank"><img src="https://img.shields.io/twitter/follow/rawat_abhi33?logo=twitter&style=for-the-badge" alt="rawat_abhi33" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rawat_abhi33" target="blank"><img src="https://img.shields.io/twitter/12k/rawat_abhi33?logo=twitter&style=for-the-badge" alt="rawat_abhi33" /></a> </p>
 
 - 🔭 I’m currently working on **Blockchain-development**
 
