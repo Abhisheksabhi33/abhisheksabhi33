@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhisheksabhi33](https://github.com/Abhisheksabhi33)
 
-- 💬 Ask me about **MERN technology**
+- 💬 Ask me about **MERN technologies**
 
 - 📫 How to reach me **abhisheksabhi33@gmail.com**
 
